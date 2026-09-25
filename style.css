@@ -1,0 +1,78 @@
+@media (min-width: 1200px) {
+    .container {
+        max-width: 970px;
+    }
+}
+
+h2 {
+    text-align: center;
+}
+
+#logo img {
+    width: 80px;
+}
+
+#clients .col {
+    text-align: center;
+}
+
+#testimonial {
+    text-align: center;
+}
+
+#testimonial .container {
+    background-color: #6C757C;
+    border-radius: 7px;
+    padding: 20px 20px;
+}
+
+#testimonial img {
+    width: 75px;
+}
+
+#subscribe {
+    text-align: center;
+    background: #ff1495;
+    align-content: center;
+}
+
+#subscribe p {
+    font-size: 27px;
+    color: black;
+}
+
+#subscribe input {
+    font-size: 16px;
+    margin-bottom: 20px;
+    padding: 7px;
+    border-radius: 10px;
+}
+
+#subscribe button {
+    font-size: 16px;
+    padding: 10px 15px;
+    color: white;
+    background: #ff1495;
+    border: 1px solid white;
+    border-radius: 5px;
+}
+
+#footer {
+    background-color: #343434;
+    padding-top: 20px;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+#footer img {
+    width: 25px;
+}
+
+#footer h3 {
+    font-size: 16px;
+    color: lightgray;
+}
+#footer p {
+    color: lightgray;
+    font-size: 15px;
+}
